@@ -7,7 +7,7 @@ How Do I Use My Dragon NaturallySpeaking Activation Key?
 
 Learn how to activate Dragon NaturallySpeaking with your activation key and avoid common setup issues. Step-by-step help with FAQs included.
 
-.. image:: https://expressvpn-activation.readthedocs.io/en/latest/_images/activate.jpg
+.. image:: activate.jpg
    :alt: Dragon Naturally Speaking Activation Key
    :width: 400px
    :align: center
